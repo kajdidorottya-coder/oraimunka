@@ -63,7 +63,7 @@ article{
 a{
     text-decoration: none;
 }
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 600px) {
     body{
         display: grid;
         grid-template-areas:

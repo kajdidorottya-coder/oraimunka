@@ -37,23 +37,23 @@ header, article, aside, footer{
 }
 
 header{
-    background-image: url(kepek/img/dandelion.jpg);
+    background-image: url(img/dandelion.jpg);
     grid-area: h;
 }
 nav{
-    background-image: url(kepek/img/dand2.jpg);
+    background-image: url(img/dand2.jpg);
     grid-area: n;
 }
 aside{
-    background-image: url(kepek/img/dand3.jpg);
+    background-image: url(img/dand3.jpg);
     grid-area: as;
 }
 footer{
-    background-image: url(kepek/img/dandy.gif);
+    background-image: url(img/dandy.gif);
     grid-area: f;
 }
 article{
-    background-image: url(kepek/img/dandy2.gif);
+    background-image: url(img/dandy2.gif);
     grid-area: ar;
 }
 #kek{
